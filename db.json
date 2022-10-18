@@ -11,4 +11,7 @@
   "profile": {
     "name": "typicode"
   }
+  "test": {
+    "ip" : "62.197.136.92"
+  }
 }
