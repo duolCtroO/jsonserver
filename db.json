@@ -12,7 +12,7 @@
     "name": "typicode"
   },
   "test": {
-    "ip" : "62.197.136.92"
+    "ip" : "62.197.136.92",
     "num" : 7,
     "status" : 200,
     "api-code" : "OK",
