@@ -13,5 +13,13 @@
   },
   "test": {
     "ip" : "62.197.136.92"
+    "num" : 7,
+    "status" : 200,
+    "api-code" : "OK",
+    "message" : "Hi!",
+    "result" : [
+      { "1st": "first", "2st": "second" }, { "3st": "third", "4st": [ { 1: 34, "2": 77, 3: "55" } ] }
+    ],
+    "json" : { "1st": "first" }
   }
 }
