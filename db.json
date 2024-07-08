@@ -21,6 +21,6 @@
       { "1st": "first", "2st": "second" }, { "3st": "third", "4st": [ { "4": 4 } ] }
     ],
     "json" : { "1st": "first" }
-    
-  }
+  },
+  "array": ["first", "second", "third"]
 }
