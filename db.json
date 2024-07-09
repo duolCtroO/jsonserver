@@ -22,11 +22,5 @@
     ],
     "json" : { "1st": "first" }
   },
-  "array": ["first", "second", "third"],
-  "id": 99332,
-  "name": "Jang",
-  "arr1": [1, 2, 3, 4],
-  "arr2": [
-    {"key": "i'm key", "value": "i'm value", "arr": [{"deep": "good", "home": "sleep"}]},
-  ]
+  "array": ["first", "second", "third"]
 }
